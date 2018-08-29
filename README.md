@@ -20,3 +20,11 @@
    + Years into Coding: 2nd year
    + Code Cleaness: No code avilable
    + Funzy level: 5/5
+
+4. **[Enhanced Sticky Targeting](https://github.com/lzhlchmxl/Funzy-School-Projects/tree/master/EnhancedStickyTargeting) - Assistant 2D cursor targeting** *(Java-Like Processing Language, Human Computer Interaction Design, Data Analytics)*
+
+   + Years into Coding: 4th year
+   + Code Cleaness: 3/5
+   + Funzy level: 4.5/5
+   
+# Funzy Personal Project List
