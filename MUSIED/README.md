@@ -28,5 +28,3 @@
    + Funzy level: 4.5/5
    
 # Funzy Personal Project List
-
-Test
