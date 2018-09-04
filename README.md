@@ -1,8 +1,9 @@
 
 ### NOTE: 
-1. Most projects are transfered from private repo without commit histories, to avoid making things(submodules) too complex.
-2. Most of the school projects are unfinished or have obvious bugs due to time limitation.
-3. Most of the personal projects are still being maintained and updated.
+1. View projects on [my website](bill-liang.com) for better UI
+2. Most projects are transfered from private repo without commit histories, to avoid making things(submodules) too complex.
+3. Most of the **school projects** are unfinished or have obvious bugs due to time limitation.
+4. Most of the **personal projects** are still being maintained and updated.
 
 # Funzy School Project List
 1. **[Universal Explorer](https://github.com/lzhlchmxl/Funzy-School-Projects/tree/master/UniversalExplorer) - Sci-fi styled remake of classic boardgame ["Can't Stop"](https://en.wikipedia.org/wiki/Can%27t_Stop_(board_game)).** *(Java, JSwing/AWT, Socket Server/Client connection)*
