@@ -37,7 +37,7 @@
    
 # Funzy Personal Project List
 
-1.  **[Personal Site](https://github.com/lzhlchmxl/Funzy-Projects-Master-List/tree/master/PersonalSite) - My personal website that presents my entreprenrial, developer and musical works** *(HTML/CSS, Javascript, Web Design)*
+1. **[Personal Site](https://github.com/lzhlchmxl/Funzy-Projects-Master-List/tree/master/PersonalSite) - My personal website that presents my entreprenrial, developer and musical works** *(HTML/CSS, Javascript, Web Design)*
 
    + Years into Coding: 3rd year
    + Code Cleaness: 3.5/5
