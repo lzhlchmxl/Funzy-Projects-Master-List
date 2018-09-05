@@ -27,7 +27,9 @@
 <link rel="shortcut icon" href="images/favicon.jpg" type="image/x-icon">
 <link rel="icon" href="images/favicon.jpg" type="image/x-icon">
 
-
+<!--Jquery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
 <link rel="stylesheet" href="assets/style.css">
 
 </head>
@@ -50,27 +52,33 @@
   <!-- works -->
   <div id="works"  class=" clearfix grid"> 
     <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/1.jpg" alt="img01"/>
+        <img class="construction_overlay" src="images/portfolio/1.jpg" alt="img01"/>
+       
         <figcaption>
-            <h2>Coming Soon</h2>
-            <p>This is my latest secret project, stay in tuned, it will be live soon<br>
-            <!--<a href="#" target="_blank" title="1" >View more</a></p> -->           
+
+            <h2>Past Startup</h2>
+            <p>Entrepreneurship is a life style. I call this the 'Graveyard'.<br>
+                I want to give my 'failed' ventures a place to be reminded and remembered.<br>
+            <a href="index.html#works" class="constructing" target="_blank" title="Past Sartup List" >Visit graveyard</a></p> 
+
         </figcaption>
+        
     </figure>
+      
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="images/portfolio/2.jpg" alt="img01"/>
         <figcaption>
-            <h2>GG-System</h2>
-            <p>Gamified-Game or GG is an online game manager to give you control over gaming. <br>
-            <a href="https://glacial-anchorage-28058.herokuapp.com/" target="_blank" title="1" >Check it out</a></p>            
+            <h2 id="funzy-projects-title">Fun Projects</h2>
+            <p>Some of my favorite funzy projects that are worth presenting! This is my portfolio as a developer. <br>
+            <a href="funzy_project_list.html" title="Funzy Project List" >Check it out</a></p>            
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/3.jpg" alt="img01"/>
+        <img class="construction_overlay" src="images/portfolio/3.jpg" alt="img01"/>
         <figcaption>
-            <h2>Coder21</h2>
-            <p>A blog site with email courses dedicated to help aspiring develpers to over come the barriars of finding their first job.<br>
-            <a href="https://coder21.com/" target="_blank" title="1" >Check it out</a></p>            
+            <h2>My Music</h2>
+            <p>I've been playing the piano since I was three, hope you enjoy my music :)<br>
+            <a href="index.html#works" class="constructing construction_overlay" target="_blank" title="Music List" >Listen to music</a></p>            
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
@@ -78,7 +86,7 @@
         <figcaption>
             <h2>LinkedIn</h2>
             <p>LinkedIn is my online resume that contains a summary my experiences<br>
-            <a href="https://www.linkedin.com/in/bill-liang" target="_blank" title="1" >Check it out</a></p>            
+            <a href="https://www.linkedin.com/in/bill-liang" target="_blank" title="Go to LinkedIn" >View my resume</a></p>            
         </figcaption>
     </figure>
      
@@ -86,8 +94,8 @@
         <img src="images/portfolio/5.jpg" alt="img01"/>
         <figcaption>
             <h2>GitHub</h2>
-            <p>GitHub keeps track of all my personal project development works<br>
-            <a href="https://github.com/lzhlchmxl" target="_blank" title="1" >Check it out</a></p>            
+            <p>GitHub tracks and contains all my project development works<br>
+            <a href="https://github.com/lzhlchmxl" target="_blank" title="Go to Github" >See my codes</a></p>            
         </figcaption>
     </figure>
     <figure class="effect-oscar  wowload fadeInUp">
@@ -95,17 +103,19 @@
         <figcaption>
             <h2>Gmail</h2>
             <p>This would be the best way to get in touch with me<br>
-            <div title="1">liangbill2006@gmail.com</div></p>            
+                liangbill2006@gmail.com <br>
+                <!--href="index.html#hire"-->
+            <a  href="#hire" class="btn btn-default explore" title="Go to Form"  id="contact-me">Contact me</a></p>              
         </figcaption>
     </figure>
   </div>
   <!-- contact -->
-	<section id="hire">
+  <section id="hire">
     <h1>Contact Me</h1>
     
     <form name="contactform" action="send_form_email.php" method="post">
 	      <div class="field name-box">
-		        <input type="text" name="name" id="name" placeholder="How do I call you?"/>
+		        <input type="text" name="name" id="name" placeholder="What's your name?"/>
         		<label for="name">Name</label>
 		        <span class="ss-icon">check</span>
 	      </div>
@@ -117,9 +127,9 @@
 	      </div>
 
 	      <div class="field msg-box">
-		        <textarea id="msg" name="message" rows="4" placeholder="What shall we work on...?"/></textarea>
+		        <textarea id="msg" name="message" rows="4" placeholder="How may I help you...?"/></textarea>
 		        <label for="msg">Msg</label>
-		        <span class="ss-icon">check</span>
+                <span class="ss-icon">check</span>
 	      </div>
 
 	      <input class="button" type="submit" value="Send" name='sub'/>
@@ -130,7 +140,7 @@
 
 <!-- Footer Starts -->
 <div class="footer text-center spacer">
-Copyright &copy; 2017 Bill Liang
+Copyright &copy; 2017-2018 Bill Liang
 </div>
 <!-- # Footer Ends -->
 <a href="#home" class="gototop "><i class="fa fa-angle-up  fa-3x"></i></a>

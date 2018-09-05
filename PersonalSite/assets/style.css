@@ -31,7 +31,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .btn{border:none;border-radius: 0;padding: 1em 4em;background: rgba(0,0,0,0.5);text-transform: uppercase;}
 .btn:hover,.btn:active{color: #fff;}
 .btn-default{color: #ccc;border: 1px solid #aaa;}
-.btn-default:hover,.btn-default:active{background: rgba(0,0,0,0.8);}
+.btn-default:hover {background:rgba(255, 255, 255, 0.2)},.btn-default:active{background: rgba(0,0,0,0.8);}
 .btn-primary{color: #fff;background:#666;width: 100%;outline: none;}
 .btn-primary:hover,.btn-primary:active,.btn-primary:focus{background:#333;box-shadow: none;}
 
@@ -53,10 +53,11 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 
 
-/*foods*/
+/*Portfolio*/
 #works figcaption a{border:1px solid #fff;margin-top: 1em;display: inline-block;color: #fff;padding: 0 2em;}
-#works figcaption a:hover{text-decoration: none;padding: 0 3em;}
-/*foods*/
+#works figcaption a:hover{text-decoration: none;padding: 0 3em; color: aliceblue; background:rgba(255, 255, 255, 0.2)}
+
+/*Call to action*/
 
 /*testimonials*/
 .testimonails{min-height: 195px;}
@@ -293,3 +294,35 @@ form input[type="submit"]:focus {
   background: #cd6302;
 }
 
+
+.construction_overlay {
+   -webkit-filter: grayscale(100%);
+       -moz-filter: grayscale(100%);
+         -o-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+            filter: grayscale(100%); 
+}
+
+/*.construction_overlay:hover {
+    opacity: 50%;
+}*/
+
+
+
+
+/*Project List Page*/
+
+/*Navigation buttons*/
+.customNav {
+    position:relative;
+    top: 20px;
+    padding: 10px 20px 10px 20px;
+    margin: 0px 10px 0px 10px;
+}
+
+.hero_slide p {
+    color: white;
+    position: fixed;
+    top:260px;
+    left:40px;
+}

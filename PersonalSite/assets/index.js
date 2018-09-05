@@ -40,3 +40,17 @@ $('#hire .field:nth-child(2) input').blur(function () {
         }
     });
 });
+
+$("#contact-me").click(function() {
+    $('html,body').animate({
+        scrollTop: $("#hire").offset().top},
+        'slow');
+});
+
+$(".constructing").click(function() {
+   alert("Still underconstruction!");
+});
+
+$(".row_work").click(function() {
+   alert("Still underconstruction! Redirecting to Github");
+});
