@@ -1,6 +1,6 @@
 
 ### NOTE: 
-1. View projects on [my website](bill-liang.com) for better UI
+1. View projects on [my website](bill-liang.com) with a better UI
 2. Most projects are transfered from private repo without commit histories, to avoid making things(submodules) too complex.
 3. Most of the **school projects** are unfinished or have obvious bugs due to time limitation.
 4. Most of the **personal projects** are still being maintained and updated.
@@ -49,4 +49,10 @@
    + Years into Coding: 1st year
    + Code Cleaness: 0.5/5
    + Funzy level: 2.5/5
+   
+3. **[Gamified Game](https://github.com/lzhlchmxl/Funzy-Projects-Master-List/tree/master) - Online game manager that gives you control over gaming.** *(Node.js, Mango DB, Web Dev)*
+
+   + Years into Coding: 3rd year
+   + Code Cleaness: 2.5/5
+   + Funzy level: 4.5/5
    
