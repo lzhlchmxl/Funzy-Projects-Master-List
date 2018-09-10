@@ -1,6 +1,6 @@
 
 ### NOTE: 
-1. View projects on [my website](bill-liang.com) with a better UI
+1. View projects on [my website](http://www.billliang.com/index.html) with a better UI
 2. Most projects are transfered from private repo without commit histories, to avoid making things(submodules) too complex.
 3. Most of the **school projects** are unfinished or have obvious bugs due to time limitation.
 4. Most of the **personal projects** are still being maintained and updated.
@@ -55,4 +55,5 @@
    + Years into Coding: 3rd year
    + Code Cleaness: 2.5/5
    + Funzy level: 4.5/5
+   
    
