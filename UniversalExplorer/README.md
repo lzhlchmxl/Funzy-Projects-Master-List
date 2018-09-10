@@ -6,18 +6,23 @@
    - The project was an ambitious attempt in my **first year** into coding, thus the code is very **complex and messy**.
    - Noticible skils involved: *Core Java, JSwing/AWT, Socket Server/Client Connection, Photoshop, Project Design and Management.*
    
-## Installation
-
-
+## Installation (Running locally)
+   - Download or clone the repo
+   - Navigate to Server folder and compile all files, then navigate to Client folder and compile all files
+   - Start a local server by running **Driver.java** in the server folder.
+   - Start the client by running **ClientFrame.java** and with parameter **"localhost 2333"**. (Java ClientFrame localhost 2333)
+   - Start another client as player two by repeating the above process.
+   - The game starts.
+   
 ## Story
 You are the commander of the universal exploring team. Your mission is to find 3 planets for human immigration before your opponent does. You have  3 Pioneers to travel through the wormhole to explore the space, and once the Pioneers reach a planet, you can conquer the planet with one of the 11 Civilization carrier under your command. However, the wormholes are the most dangerous places in the universe...You have to calculate your jumps carefully and make decisions wisely... 
 
 
 ## Tutorial
 The top section is the game board, which presents users’ choices and effects in real time. 
--The 11 planets are initially dim to indicate that they have not yet been explored. 
--Each user has two types of ships, 3 Exploration Pioneers, and 11 Civilization Carriers.
--Between the 11 Civilization Carriers and the 11 unexplored planets is the Wormhole roadmap.
+- The 11 planets are initially dim to indicate that they have not yet been explored. 
+- Each user has two types of ships, 3 Exploration Pioneers, and 11 Civilization Carriers.
+- Between the 11 Civilization Carriers and the 11 unexplored planets is the Wormhole roadmap.
 
 
 The bottom section is the control panel, which allows users to give commands to their entire fleet.
