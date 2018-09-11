@@ -24,6 +24,7 @@ The top section is the game board, which presents users’ choices and effects i
 - Each user has two types of ships, 3 Exploration Pioneers, and 11 Civilization Carriers.
 - Between the 11 Civilization Carriers and the 11 unexplored planets is the Wormhole roadmap.
 
+![Tutorial Image](https://github.com/lzhlchmxl/Funzy-Projects-Master-List/blob/master/UniversalExplorer/UE_tutorial.png)
 
 The bottom section is the control panel, which allows users to give commands to their entire fleet.
 - The green button ‘CALC’ calculates the current stable wormhole indexes. The four indexes are displayed on the bottom right of the screen. Based on the indexes, the player will have to click on the indexes to group them into 2 numbers to indicate which wormholes the Pioneers should jump through and further explore the unknown space. 
