@@ -1,22 +1,22 @@
+# Bin Packing Solution [School Project]
 
-### NOTE: These are school projects, most of them are unfinished or have obvious bugs due to time limitation. I don't intent to invest more time into these projects in the near future.
-
-
-# Funzy School Project List
-1. **[Universal Explorer](https://github.com/lzhlchmxl/Funzy-School-Projects/tree/master/Universal%20Explorer) - Sci-fi styled remake of classic boardgame ["Can't Stop"](https://en.wikipedia.org/wiki/Can%27t_Stop_(board_game)).** *(Java, JSwing/AWT, Socket Server/Client connection)*
-
-   + Years into Coding: 2nd year
-   + Code Cleaness: 0.5/5
-   + Funzy level: 4/5
-
-2. **[Study Smarter](https://github.com/lzhlchmxl/Funzy-School-Projects/tree/master/StudySmarter) - is an extension App of open source project [Minimal Todolist App](https://github.com/avjinder/Minimal-Todo).** *(Java, Android Studio, Mobile Dev)*
-
-   + Years into Coding: 4th year
-   + Code Cleaness: 3/5
-   + Funzy level: 2.5/5
+## Introduction
+   - Bin Packing Solution is a solution to the [Bin-Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem) implemented with Java.
+   - This is a small project done in my **fourth year** into coding, it only has a  **command line UI**.
+   - Noticible skils involved: *Java, Algorithm Design, Algorithm Analysis*
    
-3. **[Sky Ranger](https://github.com/lzhlchmxl/Funzy-School-Projects/tree/master/Sky%20Ranger) - Sci-fi top down shooter built with GameMaker** *(Java-like object oriented language, GameMaker, Game design)*
+## Installation
+   - Download or clone the repo
+   - Open terminal and compile the three java files, make sure they are in the same directory.
+   - Run “Java Main” and follow the program’s instructions to enter the necessary parameters.
+   - The results will be displayed in the terminal.
+   
+## Bin Packing Problem
+In the bin packing problem, objects of different volumes must be packed into a finite number of bins in a way that minimizes the number of bins used. In computational complexity theory, it is a combinatorial NP-hard problem.
 
-   + Years into Coding: 2nd year
-   + Code Cleaness: No code avilable
-   + Funzy level: 5/5
+
+## Tutorial
+- Enter the number of objects that are going to be put into bins
+- Enter an array of integers representing the size of each object
+- Enter an integer to indicate the size of the bin (volume V).
+
