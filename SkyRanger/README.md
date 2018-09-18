@@ -12,13 +12,13 @@
    - Run the game program as Admin
    
 ## Story
-You are the commander of the universal exploring team. Your mission is to find 3 planets for human immigration before your opponent does. You have  3 Pioneers to travel through the wormhole to explore the space, and once the Pioneers reach a planet, you can conquer the planet with one of the 11 Civilization carrier under your command. However, the wormholes are the most dangerous places in the universe...You have to calculate your jumps carefully and make decisions wisely... 
+Sky Rangers are earth's last defense formed with genetically modifed elite soldiers. Sky Rangers deploy at a globle range to counter world level disasters, let it be alien invasion...zombies...anciant portals...
 
 
 ## Tutorial 
-- The 11 planets are initially dim to indicate that they have not yet been explored. 
-- Each user has two types of ships, 3 Exploration Pioneers, and 11 Civilization Carriers.
-- Between the 11 Civilization Carriers and the 11 unexplored planets is the Wormhole roadmap.
+- Use AWSD to move around, left click to shoot, '1, 2' to switch between weapons.
+- The tutorial is actually the hardest level in the game, you are meant to die quickly and then discover it was a training session.
+- It is unfortunete that only the tutorial level was completed.
 
 [Tutorial Image](https://github.com/lzhlchmxl/Funzy-Projects-Master-List/)
 
